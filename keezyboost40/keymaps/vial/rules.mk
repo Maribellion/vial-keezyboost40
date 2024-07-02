@@ -1,0 +1,8 @@
+LTO_ENABLE = yes
+VIA_ENABLE = yes
+VIAL_ENABLE = yes
+
+
+QUANTUM_PAINTER_ENABLE = yes
+QUANTUM_PAINTER_DRIVERS = st7789_spi
+SRC += myimage.qgf.c
